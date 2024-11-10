@@ -1,5 +1,7 @@
 # Minimalistisches Sparmodell
 
+Hübscher: https://xr901.github.io/Minimalistisches_Sparmodell/
+
 ## Grundlagen
 
 Es gibt mehrere Ausprägungen des ökonomischen Prinzips, auch Wirtschaftlichkeit genannt:
